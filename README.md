@@ -20,7 +20,7 @@ Your grade will be determined based on the following criterion.
     - Is it useful? It would be very boring if you built an application which counts the number of seconds since big bang.
     - Is it user friendly. Of course , our course is not about software design but you do want to make sure that your app is not too hard to navigate.
 - (30%) Statistical correctness. 
-    - Make sure that your app is statistically sensible.
+    - Make sure that your app is statistically sensible (if it is relevent).
     You do not want to produce anything that are statistical wrong, for example, using a piechart to show a quantitative variable.
     - For the statistical analyses, make sure the analyses were correctly done.
 - (40%) coding
