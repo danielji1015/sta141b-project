@@ -10,7 +10,7 @@ Here is a list of public APIs for your reference: https://github.com/public-apis
 ## Requirements
 
 - the application should be deployed to shinyapps.io or google cloud run
-- the source code should be uploaded to github and shared to the public.
+- the source code should be uploaded to github and share to the public.
 
 ## Grading criterion
 
@@ -31,6 +31,8 @@ Your grade will be determined based on the following criterion.
 
 ## How to submit
 
-To be announced.
+Please visit this [link](https://submit-guhgays5va-uw.a.run.app/141b/) to submit your shiny app url and github repo.
+
+You will need to login first using your github account.
 
 Due date: 6/10/2020 11.59pm
